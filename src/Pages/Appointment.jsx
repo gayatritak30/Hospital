@@ -1,7 +1,7 @@
 import React from "react";
 import AppointmentForm from "../components/AppointmentForm";
-import bgImage from "../assets/hospital.jpeg"; // ✅ background image
-import doctorImage from "../assets/i2.jpeg";   // ✅ new doctor image
+import bgImage from "../assets/hospital.jpeg"; 
+import doctorImage from "../assets/i2.jpeg";   
 
 const Appointment = () => {
   return (
